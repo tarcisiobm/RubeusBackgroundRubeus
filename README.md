@@ -20,17 +20,17 @@
 - JavaScript 
 
 ## Acesse o projeto
-Você pode executar o Rubeus Background Swap diretamente pelos links do: [github](https://tarcisiobm.github.io/BackgroundSwap/) | [vercel](https://background-swap.vercel.app) ou  fazer o clone deste repositório para para executar a aplicação localmente em sua máquina.
+Você pode executar o Rubeus Background Swap diretamente pelos links do: [github](https://tarcisiobm.github.io/RubeusBackgroundSwap/) | [vercel](https://rubeus-background-swap.vercel.app) ou  fazer o clone deste repositório para para executar a aplicação localmente em sua máquina.
 
 ## Como Rodar Localmente
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/tarcisiobm/BackgroundSwap.git
+   git clone https://github.com/tarcisiobm/RubeusBackgroundSwap.git
    ```
 2. Navegue até o diretório do projeto:
    ```bash
-   cd BackgroundSwap
+   cd RubeusBackgroundSwap
    ```
 ## Contato
 📧 tarcisiobm.dev@gmail.com  
